@@ -1,4 +1,4 @@
----
+*---
 title: Using GitHub CLI in workflows
 shortTitle: Use GitHub CLI
 intro: You can script with {% data variables.product.prodname_cli %} in {% data variables.product.prodname_actions %} workflows.
